@@ -1,0 +1,43 @@
+body {
+
+    font-family: Verdana, Arial, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+a {
+    color: white;
+}
+
+.fileSize {
+    font-style: oblique;
+    color: grey;
+}
+
+.fileentry {
+    padding: 3px;
+}
+
+.header {
+    color: grey;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+img {
+    padding-right:15px;
+}
